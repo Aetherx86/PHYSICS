@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "boltzmann-statistical-mechanics"
+version = "1.0.0"
+description = "Interactive readable edition of Ludwig Boltzmann's Statistical Mechanics and Kinetic Theory"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Jeong Hoon Kim", email = "jk9576@hanyang.ac.kr" }
+]
+dependencies = []
+
+[project.scripts]
+boltzmann = "boltzmann.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["boltzmann*"]
