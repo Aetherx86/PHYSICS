@@ -14,8 +14,8 @@ This repository provides an interactive digital book and computational engine de
 ## Installation
 
 ```bash
-git clone https://gitlab.com/jk9576/Planck.git
-cd Planck
+git clone https://gitlab.com/jk9576/PHYSICS.git
+cd PHYSICS/Planck
 pip install -e .
 ```
 

@@ -13,8 +13,8 @@ This repository provides an interactive digital book and computational engine de
 ## Installation
 
 ```bash
-git clone https://gitlab.com/jk9576/Feynman.git
-cd Feynman
+git clone https://gitlab.com/jk9576/PHYSICS.git
+cd PHYSICS/Feynman
 pip install -e .
 ```
 

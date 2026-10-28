@@ -14,8 +14,8 @@ This repository provides an interactive digital book and computational engine de
 ## Installation
 
 ```bash
-git clone https://gitlab.com/jk9576/Boltzmann.git
-cd Boltzmann
+git clone https://gitlab.com/jk9576/PHYSICS.git
+cd PHYSICS/Boltzmann
 pip install -e .
 ```
 

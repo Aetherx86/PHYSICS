@@ -41,8 +41,8 @@ $$\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\parti
 Zero third-party dependencies required. Built exclusively with Python 3.9+ standard libraries.
 
 ```bash
-git clone https://gitlab.com/jk9576/Maxwell.git
-cd Maxwell
+git clone https://gitlab.com/jk9576/PHYSICS.git
+cd PHYSICS/Maxwell
 ```
 
 Run test suite:

@@ -39,8 +39,8 @@ which is strictly positive definite everywhere.
 Zero external dependencies required. Compatible with Python 3.9+.
 
 ```bash
-git clone https://gitlab.com/jk9576/Dirac.git
-cd Dirac
+git clone https://gitlab.com/jk9576/PHYSICS.git
+cd PHYSICS/Dirac
 ```
 
 Run test suite:

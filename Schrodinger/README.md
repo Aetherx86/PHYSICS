@@ -45,8 +45,8 @@ $$E_n = \left(n + \frac{1}{2}\right)\hbar\omega$$
 Zero third-party dependencies required. Built exclusively with Python 3.9+ standard libraries.
 
 ```bash
-git clone https://gitlab.com/jk9576/Schrodinger.git
-cd Schrodinger
+git clone https://gitlab.com/jk9576/PHYSICS.git
+cd PHYSICS/Schrodinger
 ```
 
 Run test suite:
